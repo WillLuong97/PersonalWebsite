@@ -1,0 +1,18 @@
+.container{
+    background: url(./media/background-media-2.png) no-repeat center center fixed;
+    /* background-image: ; */
+    background-size: cover;
+    padding-top: 400px;
+    padding-bottom: 400px;
+    padding-left: 10%;
+}
+
+.container h1{
+    color: white;
+    font-size: 40px;
+    line-height: 44px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+  
+}
